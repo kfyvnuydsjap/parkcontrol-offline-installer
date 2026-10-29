@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-CPU+Power+Management-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-CPU+Optimization-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 ParkControl Free Installer** — ParkControl is a free Windows utility from Bitsum for adjusting CPU core parking settings to optimize performance and responsiveness. Works without internet access, no account required. Full offline installation.
+**💻 ParkControl Free Installer** — ParkControl is a free Windows utility that controls CPU core parking and frequency scaling settings. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About ParkControl
 
-ParkControl is a free Windows utility from Bitsum for adjusting CPU core parking settings to optimize performance and responsiveness. Control how aggressively Windows parks CPU cores, reducing latency for real-time applications like audio production and gaming. ParkControl provides a simple GUI for settings that would otherwise require Registry editing, making CPU parking optimization accessible.
+ParkControl is a free Windows utility that controls CPU core parking and frequency scaling settings. It allows disabling core parking for maximum single-threaded performance or enabling aggressive parking for power savings — optimizing Windows power plans beyond the built-in options.
 
 ---
 
 ## ❌ Problem: ParkControl is hard to access
 
-- **Windows Only** — CPU parking is a Windows-specific power management feature
-- **Advanced Concept** — CPU core parking benefits require understanding of Windows power plans
-- **Risk of Battery Drain** — Disabling core parking on laptops increases power consumption
-- **Limited Scope** — Specialized tool for a single power management optimization
+- **Windows Only** — Not relevant on macOS or Linux
+- **Casual User Risk** — Incorrect settings can cause instability or excessive power consumption
+- **Limited Visual Feedback** — Performance impact not directly measured within the app
+- **Registry Edits** — Changes modify registry values that persist across reboots
 
 ---
 
@@ -121,7 +121,7 @@ ParkControl is a free Windows utility from Bitsum for adjusting CPU core parking
 
 ---
 
-**ParkControl Free Installer** — ParkControl is a free Windows utility from Bitsum for adjusting CPU core parking settings to optimize performance and responsiveness. Install without internet connection today!
+**ParkControl Free Installer** — ParkControl is a free Windows utility that controls CPU core parking and frequency scaling settings. Install without internet connection today!
 
 <div align="center">
 
